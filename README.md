@@ -23,7 +23,7 @@ A multi-site enterprise network topology has been designed and implemented using
 
 ## 🗺️ Topoloji / Network Topology
 
-![Topology](topoloji.png)
+![Topology](https://github.com/mertroot/secure-multisite-network/blob/main/secure-multisite-network/Topoloji.png)
 
 ---
 
