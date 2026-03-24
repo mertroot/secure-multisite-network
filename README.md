@@ -94,8 +94,8 @@ A multi-site enterprise network topology has been designed and implemented using
 
 ## 📁 Proje Dosyaları / Project Files
 
-- `network.pkt` → Packet Tracer dosyası
-- `topology.png` → Ağ topolojisi
+- `secure-multisite-network.pkt` → Packet Tracer dosyası
+- `topoloji.png` → Ağ topolojisi
 - `docs/` → Proje dokümantasyonu
 
 ---
