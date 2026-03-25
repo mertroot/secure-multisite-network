@@ -17,7 +17,7 @@ A multi-site enterprise network topology has been designed and implemented using
 - NAT (PAT)
 - DHCP
 - ACL (Access Control Lists)
-- SSH (Secure Remote Access)
+- SSH (Secure Remote Access) - Router3'e SSH ile giriş.
 
 ---
 
